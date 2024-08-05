@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+<<<<<<< HEAD
     "@headlessui/react": "^2.1.2",
     "@heroicons/react": "^2.1.5",
     "@nextui-org/react": "^2.4.6",
@@ -32,6 +33,25 @@
     "react-intersection-observer": "^9.5.2",
     "tailwindcss": "^3",
     "three": "^0.157.0",
+=======
+    "@react-three/drei": "^9.109.2",
+    "@react-three/fiber": "^8.16.8",
+    "framer-motion": "^11.3.21",
+    "next": "14.2.5",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-intersection-observer": "^9.13.0",
+    "three": "^0.167.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.5",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+>>>>>>> 8b4b1d207daf81ebbe05d1c10c1376aed4e9554f
     "typescript": "^5"
   }
 }
